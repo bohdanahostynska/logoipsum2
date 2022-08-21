@@ -71,6 +71,7 @@ font-weight:normal;
 
 .about{
     margin:105px auto 85px;
+    flex-direction:row;
 }
 
 
