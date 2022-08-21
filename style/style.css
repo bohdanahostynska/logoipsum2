@@ -21,7 +21,7 @@ font-weight:normal;
 
 .header__flex, .footer__flex,.about{
     display:flex;
-    justify-content: space-between;
+    justify-content:flex-end;
     align-items: center;
 }
 
@@ -62,7 +62,7 @@ font-weight:normal;
 }
 
 .button__orange{
-    background: #c7410c;
+    background: #984728;
 }
 .button__orange:hover{
     background:#454241;
@@ -111,7 +111,7 @@ font-weight:normal;
     margin-left: 35px;
 }
 
-.button__transparent: hover{
+.button__transparent:hover{
     transition:500ms;
     background:#564c4c;
 }
