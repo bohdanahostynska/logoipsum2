@@ -73,6 +73,7 @@ font-weight:normal;
     margin:105px auto 85px;
     display:flex;
     justify-content:flex-end;
+    align-items:flex-start;
 }
 
 
