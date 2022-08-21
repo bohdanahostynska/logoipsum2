@@ -69,7 +69,7 @@ font-weight:normal;
     transition:500ms;
 }
 
-about__image{
+.about{
     margin:105px auto 85px;
     display:flex;
     justify-content:flex-end;
