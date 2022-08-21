@@ -62,10 +62,10 @@ font-weight:normal;
 }
 
 .button__orange{
-    background: #984728;
+    background: #79422c;
 }
 .button__orange:hover{
-    background:#454241;
+    background:#aa9e9a;
     transition:500ms;
 }
 
