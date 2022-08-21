@@ -22,7 +22,7 @@ font-weight:normal;
 .header__flex, .footer__flex,.about{
     display:flex;
     justify-content:space-between;
-    align-items: center;
+    align-items:center;
 }
 
 .nav__li{
@@ -71,9 +71,6 @@ font-weight:normal;
 
 .about{
     margin:105px auto 85px;
-    display:flex;
-    justify-content:flex-end;
-    align-items:flex-start;
 }
 
 
