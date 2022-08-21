@@ -62,15 +62,19 @@ font-weight:normal;
 }
 
 .button__orange{
-    background: #FF7143;
+    background: #574d49;
 }
 .button__orange:hover{
-    background:#c7522e;
+    background:#454241;
     transition:500ms;
 }
 
-about{
+about__image{
     margin:105px auto 85px;
+    display:flex;
+    justify-content:flex-end;
+    align-items:flex-start;
+    flex-direction:row-reverse
 }
 
 
