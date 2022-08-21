@@ -19,7 +19,7 @@ font-weight:normal;
     padding:38px 0 48px;
 }
 
-.header__flex, .footer__flex{
+.header__flex, .footer__flex, .about{
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -71,10 +71,6 @@ font-weight:normal;
 
 .about{
     margin:105px auto 85px;
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    flex-direction:row;
 }
 
 
