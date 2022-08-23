@@ -18,7 +18,7 @@
     padding:38px 0 48px;
 }
 
-.header__flex, .footer__flex, .about__flex, .subscribe{
+.header__flex, .footer__flex, .about__flex, .subscribe__flex{
     display:flex;
     justify-content:space-between;
     align-items:center;
