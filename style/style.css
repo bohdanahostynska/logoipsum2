@@ -1,4 +1,4 @@
-    /**{margin:0;
+    */*{margin:0;
     padding:0;
     font-size:16px;
     font-weight:normal
@@ -18,7 +18,7 @@
     padding:38px 0 48px;
 }
 
-.header__flex, .footer__flex, .about__flex, .subscribe__flex{
+.header__flex, .footer__flex, .about__flex, .subscribe{
     display:flex;
     justify-content:space-between;
     align-items:center;
