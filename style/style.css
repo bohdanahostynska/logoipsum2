@@ -18,7 +18,7 @@
     padding:38px 0 48px;
 }
 
-.header__flex, .footer__flex, .about__flex, .subscribe{
+.header__flex, .footer__flex, .about__flex, .subscribe__flex{
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -132,6 +132,7 @@
     color: #19191B;
     margin-buttom:38px;
 } 
+
 .input{
     width: 302px;
     height: 54.19px;
@@ -149,6 +150,7 @@
     letter-spacing: -0.531474px;
     color: #000000;
 }  
+
 .input:focus{
     outline:none;
 }  
