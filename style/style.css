@@ -19,7 +19,7 @@ font-weight:normal;
     padding:38px 0 48px;
 }
 
-.header__flex, .footer__flex, .about__flex{
+.header__flex, .footer__flex, .about{
     display:flex;
     justify-content:space-between;
     align-items:center;
