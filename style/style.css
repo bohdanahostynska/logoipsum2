@@ -122,7 +122,7 @@
 }
 
 .subscribe{
-    margine-bottom:85px;
+    margin-bottom:85px;
 } 
 
 .subscribe__title{
@@ -131,25 +131,24 @@
     line-height: 57px;
     letter-spacing: -1.56316px;
     color: #19191B;
-    margin-buttom:38px;
+    margin-bottom:38px;
 } 
 
 .input{
+    box-sizing: border-box;
     width: 302px;
-    height: 54.19px;
-    border: 1px solid #3b3b45;
+    height: 60px;
+    border: 1px solid #7087FF;
     border-radius: 10px;
-    padding-left:14px;
-    box-sizing:border-box;
-    margin-right:39px;
-}  
+    padding-left:14px
+} 
 
 .input::placeholder,.input{
     font-weight: bold;
     font-size: 17px;
     line-height: 22px;
     letter-spacing: -0.531474px;
-    color: #b30e0e;
+    color: #706767;
 }  
 
 .input:focus{
