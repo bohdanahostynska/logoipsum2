@@ -94,11 +94,11 @@
     margin-bottom: 50px;
 }
 .button__violet{
-    background: #5454D4;
+    background: #5b5b61;
 }
 
 .button__violet:hover{
-    background:#0808d1;
+    background:#6b6b75;
     transition:500ms;
 }
 
